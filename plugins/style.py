@@ -1,7 +1,7 @@
 
 class Ashu(object):
   
-    START_TEXT = """Hey bruh 👋!** \n\n➨ 𝗜 𝗮𝗺 𝗮 𝗧𝗫𝗧 𝗗𝗮𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗿 𝗕𝗼𝘁 𝗠𝗮𝗱𝗲 𝗪𝗶𝘁𝗵 ❤️ \n\n➨ 𝗜𝗳 𝗬𝗼𝘂 𝗪𝗮𝗻𝘁 𝗨𝘀𝗲 𝗠𝗲 𝗧𝗵𝗲𝗻 𝗦𝗲𝗻𝗱 /upload \n\n➨ 𝗠𝗼𝗱𝗶𝗳𝗶𝗲𝗱 𝗕𝘆 : **@AG_8FBot**,
+    START_TEXT = """Hey bruh 👋!** \n\n➨ 𝗜 𝗮𝗺 𝗮 𝗧𝗫𝗧 𝗗𝗮𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗿 𝗕𝗼𝘁 𝗠𝗮𝗱𝗲 𝗪𝗶𝘁𝗵 ❤️ \n\n➨ 𝗜𝗳 𝗬𝗼𝘂 𝗪𝗮𝗻𝘁 𝗨𝘀𝗲 𝗠𝗲 𝗧𝗵𝗲𝗻 𝗦𝗲𝗻𝗱 /upload \n\n➨ 𝗠𝗼𝗱𝗶𝗳𝗶𝗲𝗱 𝗕𝘆 : **@durov**,
         """
 
     Q1_TEXT = """<b>
@@ -18,7 +18,7 @@ class Ashu(object):
 <b>"""
 
     T1_TEXT = """<b>🌄 ɴᴏᴡ sᴇɴᴅ ᴛʜᴇ ᴛʜᴜᴍʙ ᴜʀʟ
-Eg » `https://graph.org/file/698599feb76711fa080f6.jpg`
+Eg » `https://graph.org/file/698599fe.jpg`
 
 ➤ ᴏʀ ɪғ ᴅᴏɴ'ᴛ ᴡᴀɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ sᴇɴᴅ = `no`
 """
